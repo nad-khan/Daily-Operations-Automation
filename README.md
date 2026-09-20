@@ -17,3 +17,28 @@ Data is checked and prepared for recording
         ↓
 OUTPUT
 Google Sheets is automatically updated
+
+                ┌─────────────────────┐
+                │ Hotel Employee      │
+                │ WhatsApp Message    │
+                └──────────┬──────────┘
+                           ↓
+                ┌─────────────────────┐
+                │       n8n            │
+                │ Workflow Automation  │
+                └──────────┬──────────┘
+                           ↓
+                ┌─────────────────────┐
+                │ AI / LLM Processing  │
+                │ Data Extraction      │
+                └──────────┬──────────┘
+                           ↓
+                ┌─────────────────────┐
+                │ Structured Data      │
+                │ & Validation         │
+                └──────────┬──────────┘
+                           ↓
+                ┌─────────────────────┐
+                │   Google Sheets      │
+                │ Daily Operations     │
+                └─────────────────────┘
