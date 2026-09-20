@@ -1,5 +1,5 @@
 # Daily-Operations-Automation
-Automated hotel operations reporting workflow 
+Automated operations reporting workflow 
 INPUT
 Employee sends daily operational message
         ↓
@@ -19,7 +19,7 @@ OUTPUT
 Google Sheets is automatically updated
 
                 ┌─────────────────────┐
-                │ Hotel Employee      │
+                │ Employee            │
                 │ WhatsApp Message    │
                 └──────────┬──────────┘
                            ↓
